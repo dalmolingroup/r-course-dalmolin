@@ -12,7 +12,6 @@ output:
     toc: true
     toc_float: true
 
-bibliography: cite.bib
 date: '`r NULL`'
 vignette: >
   %\VignetteIndexEntry{Introdução ao R para Bioinformática}
